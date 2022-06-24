@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marco Fura</h1>
 <h3 align="center">A passionate fullstack developer from Peru</h3>
 
-- 🌱 I’m currently learning **Laravel, Typescript**
+- 🌱 I’m currently learning **Tensorflow, Python, Neural Networks**
 
-- 👨‍💻 All of my projects are available at [mi-portafolio-ebf29.web.app](mi-portafolio-ebf29.web.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-lemon-psi.vercel.app/)
 
 - 💬 Ask me about **Nextjs, react, nodejs**
 
