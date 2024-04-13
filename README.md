@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Fura</h1>
-<h3 align="center">A passionate fullstack developer from Peru</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🌱 I’m currently learning **Tensorflow, Python, Neural Networks**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Nextjs, react, nodejs**
 
-- 📫 How to reach me **marco.fura@unmsm.edu.pe**
+- 📫 How to reach me **mjfura27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
